@@ -1,4 +1,4 @@
-name: Check Yoshkar-Ola release
+name: Check Naberezhnye Chelny release
 on:
   push:
     branches: [main]
