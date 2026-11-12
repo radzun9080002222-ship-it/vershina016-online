@@ -15,9 +15,10 @@ export default function Hero() {
             <span className="text-base font-bold uppercase tracking-widest2 text-emerald">Вершина</span>
             <span className="h-px w-8 bg-emerald/40" />
           </div>
-          <h1 className="text-[17vw] font-bold leading-[0.95] tracking-tight text-graphite md:text-[120px]">
+          <h1 className="sr-only">Клининг в Набережных Челнах — уборка квартир и домов</h1>
+          <div aria-hidden="true" className="text-[17vw] font-bold leading-[0.95] tracking-tight text-graphite md:text-[120px]">
             Чисто<span className="text-emerald">.</span>
-          </h1>
+          </div>
           <span
             className="mt-1 block leading-[0.8] text-emerald text-[13vw] md:text-[66px]"
             style={{ fontFamily: "'Caveat', cursive" }}
