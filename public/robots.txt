@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://vershina016.online/sitemap.xml
